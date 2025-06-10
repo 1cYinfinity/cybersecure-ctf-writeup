@@ -28,7 +28,7 @@ We solved challenges and documented writeups in the following categories:
 
 ## 🧑‍💻 Team justahacker
 
- Name: 
+ Name: </br>
  **Aditya**      
  **Shiva**       
  **Me**
